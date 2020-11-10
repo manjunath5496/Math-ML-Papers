@@ -12,7 +12,7 @@ Classification, and Embedding</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(3).pdf" style="text-decoration:none;"> Low degree polynomial equations: arithmetic, geometry and topology</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(4).pdf" style="text-decoration:none;">Automatic Reverse-Mode Differentiation:
 Lecture Notes</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(5).pdf" style="text-decoration:none;">Automated Simplication of Large Symbolic
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(5).pdf" style="text-decoration:none;">Automated Simplification of Large Symbolic
 Expressions</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(6).pdf" style="text-decoration:none;">Convex Optimization: Algorithms and
 Complexity</a></li>
