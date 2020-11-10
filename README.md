@@ -31,7 +31,8 @@ Technical introduction</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(13).pdf" style="text-decoration:none;">Searching for Representative Modes on
 Hypergraphs for Robust Geometric Model Fitting</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(14).pdf" style="text-decoration:none;">Detecting GAN generated Fake Images using Co-occurrence Matrices</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(14).pdf" style="text-decoration:none;">Deep Learning: An Introduction for Applied
+Mathematicians</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(15).pdf" style="text-decoration:none;">Probability and Random Processes: With Applications to Signal Processing</a></li>
 
@@ -69,8 +70,7 @@ Hypergraph Community Detection</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(30).pdf" style="text-decoration:none;">Some Notes on Applied Mathematics for
 Machine Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(31).pdf" style="text-decoration:none;">DeepFakes and Beyond: A Survey of
-Face Manipulation and Fake Detection</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(31).pdf" style="text-decoration:none;">Analysing Mathematical Reasoning Abilities of Neural Models</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(32).pdf" style="text-decoration:none;">Learning
 with Hypergraphs</a></li> 
 
@@ -101,7 +101,11 @@ Analysis</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(45).pdf" style="text-decoration:none;">The Total Variation on Hypergraphs - Learning on Hypergraphs Revisited</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(46).pdf" style="text-decoration:none;">A Survival Guide to Vector Calculus</a></li>
 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(47).pdf" style="text-decoration:none;">Algebra, Topology, Dierential Calculus, and Optimization Theory For Computer Science and Machine Learning</a></li> 
  
+<li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(48).pdf" style="text-decoration:none;">Math Formulas for Machine Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(49).PDF" style="text-decoration:none;">Mathematical models of classification algorithm of Machine learning</a></li>
+
 
 
 
