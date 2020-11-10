@@ -101,7 +101,7 @@ Analysis</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(45).pdf" style="text-decoration:none;">The Total Variation on Hypergraphs - Learning on Hypergraphs Revisited</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(46).pdf" style="text-decoration:none;">A Survival Guide to Vector Calculus</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(47).pdf" style="text-decoration:none;">Algebra, Topology, Dierential Calculus, and Optimization Theory For Computer Science and Machine Learning</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(47).pdf" style="text-decoration:none;">Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(48).pdf" style="text-decoration:none;">Math Formulas for Machine Learning</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(49).PDF" style="text-decoration:none;">Mathematical models of classification algorithm of Machine learning</a></li>
