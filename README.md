@@ -102,43 +102,7 @@ Analysis</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(46).pdf" style="text-decoration:none;">A Survival Guide to Vector Calculus</a></li>
 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(47).pdf" style="text-decoration:none;">VideoForensicsHQ: Detecting High-quality
-Manipulated Face Videos</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(48).pdf" style="text-decoration:none;">DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms</a></li>
 
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(49).pdf" style="text-decoration:none;">CNN Detection of GAN-Generated Face Images
-based on Cross-Band Co-occurrences Analysis</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(50).pdf" style="text-decoration:none;">Dynamic texture analysis for detecting
-fake faces in video sequences</a></li>
-
-  <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(51).pdf" style="text-decoration:none;">Fighting Deepfake by Exposing the Convolutional Traces on Images</a></li> 
- 
-<li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(52).pdf" style="text-decoration:none;">Sharp Multiple Instance Learning for DeepFake Video Detection</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(53).pdf" style="text-decoration:none;">DeepFake Detection Based on Discrepancies
-Between Faces and their Context</a></li>
-
- 
-<li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(54).pdf" style="text-decoration:none;">Deep Detection for Face Manipulation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(55).pdf" style="text-decoration:none;">In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(56).pdf" style="text-decoration:none;">Protecting World Leaders Against Deep Fakes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(57).pdf" style="text-decoration:none;">Deepfake Video Detection through Optical Flow based CNN</a></li>
-
- 
-<li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(58).pdf" style="text-decoration:none;">Fake Face Detection Methods: Can They Be
-Generalized?</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(59).pdf" style="text-decoration:none;">Deepfake Video Detection Using Recurrent Neural Networks</a></li>
-
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(60).pdf" style="text-decoration:none;">Forensics Face Detection From GANs Using Convolutional Neural Network</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(61).pdf" style="text-decoration:none;">Detection of Deepfake Video Manipulation</a></li>
-
- 
-<li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(62).pdf" style="text-decoration:none;">"Deep Fakes" using Generative Adversarial Networks (GAN)</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(63).pdf" style="text-decoration:none;">Synthesizing Obama: Learning Lip Sync from Audio</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Math-ML-Papers/blob/master/mml(64).pdf" style="text-decoration:none;">ManTra-Net: Manipulation Tracing Network For Detection And Localization of Image Forgeries With Anomalous Features</a></li>
 
 
 
